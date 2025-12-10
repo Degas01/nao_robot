@@ -1,2 +1,7 @@
-Autonomous Path Planning for the NAO Robot Using A* and Grid-Based World Modelling
+# Autonomous Path Planning for the NAO Robot Using A* and Grid-Based World Modelling
+
+<p align="center">
+  <img width="1000" height="1000" alt="nao_robot" src="https://github.com/user-attachments/assets/c92249d8-93c4-4041-b403-b55b5bfb87f8" />
+</p>
+
 <p align="center"> <img src="docs/thumbnails/nao_render.png" width="300"> </p> <p align="center"> <img src="https://img.shields.io/badge/Robot-NAO%20V6-orange"> <img src="https://img.shields.io/badge/Algorithm-A*%20Search-blue"> <img src="https://img.shields.io/badge/Heuristic-Manhattan-brightgreen"> <img src="https://img.shields.io/badge/Simulator-Webots%20|%20RViz%20|%20Foxglove-purple"> <img src="https://img.shields.io/badge/Language-Python%203.8-red"> <img src="https://img.shields.io/badge/ROS-Noetic-green"> </p>
