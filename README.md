@@ -1,7 +1,7 @@
 # NAO Robot Autonomous Ball Retrieval System
 
 <p align="center">
-  <img width="1000" height="1000" alt="nao_robot" src="https://github.com/user-attachments/assets/c92249d8-93c4-4041-b403-b55b5bfb87f8" />
+  <img width="1520" height="2389" alt="20250117_105948" src="https://github.com/user-attachments/assets/39595b3d-9c49-489c-b22a-3dc1fc295c8b" />
 </p>
 
 ![Python](https://img.shields.io/badge/Python-2.7-blue)
