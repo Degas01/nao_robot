@@ -13,7 +13,6 @@
 ![MoveIt](https://img.shields.io/badge/Planning-MoveIt-purple)
 ![License](https://img.shields.io/badge/License-Academic-lightgrey)
 [![King's College London](https://img.shields.io/badge/Institution-King's_College_London-blue.svg)](https://www.kcl.ac.uk/)
-[![Project Report](https://img.shields.io/badge/Report-PDF-red.svg)](link-to-report)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
@@ -131,3 +130,28 @@ The system consists of four primary layers:
 
 - NAOqi API for body movement
 - Path smoothing and waypoint tracking
+
+---
+
+## 3. Simulation Environment 
+
+The project integrates multiple tools:
+
+### Webots
+
+- Full NAO model
+- Obstacle environment
+- Tennis-ball placement
+- Kinematic control
+
+### RViz
+
+- Grid visualisation
+- Path expansion timeline
+- Debugging of occupancy cells
+
+### Foxglove
+
+- Real-time monitoring
+- Playback of navigation logs
+
