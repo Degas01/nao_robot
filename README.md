@@ -66,3 +66,48 @@ This project implements a fully autonomous navigation pipeline for the NAO human
 - Avoid static obstacles and reach the target reliably
 - Execute the computed path in simulation and on a real NAO robot
 
+---
+
+## 2. System Architecture
+
+<p align="center">
+
+```
+┌─────────────────┐
+│  Voice Command  │
+│  Recognition    │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐      ┌──────────────┐
+│  Ball Detection │◄─────┤ NAO Camera   │
+│  (OpenCV)       │      └──────────────┘
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐      ┌──────────────┐
+│  Visual Tracking│◄─────┤ Head Control │
+│  (Proportional) │      │ (ALProxy)    │
+└────────┬────────┘      └──────────────┘
+         │
+         ▼
+┌─────────────────┐      ┌──────────────┐
+│  SLAM System    │◄─────┤ Feature      │
+│  (ORB-based)    │      │ Extraction   │
+└────────┬────────┘      └──────────────┘
+         │
+         ▼
+┌─────────────────┐
+│  Path Planning  │
+│  (A* Algorithm) │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐      ┌──────────────┐
+│  Motion         │◄─────┤ Kick         │
+│  Execution      │      │ Kinematics   │
+└─────────────────┘      └──────────────┘
+
+```
+
+</p>
