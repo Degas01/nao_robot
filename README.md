@@ -71,6 +71,7 @@ This project implements a fully autonomous navigation pipeline for the NAO human
 ## 2. System Architecture
 
 <p align="center">
+  ```
 ┌─────────────────┐
 │  Voice Command  │
 │  Recognition    │
@@ -105,4 +106,5 @@ This project implements a fully autonomous navigation pipeline for the NAO human
 │  Motion         │◄─────┤ Kick         │
 │  Execution      │      │ Kinematics   │
 └─────────────────┘      └──────────────┘
+  ```
 </p>
