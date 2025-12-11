@@ -1,8 +1,4 @@
-<p align="center">
-  
-  # NAO Robot Autonomous Ball Retrieval System
-  
-</p>
+# NAO Robot Autonomous Ball Retrieval System
 
 <p align="center">
   <img width="1000" height="1000" alt="nao_robot" src="https://github.com/user-attachments/assets/c92249d8-93c4-4041-b403-b55b5bfb87f8" />
