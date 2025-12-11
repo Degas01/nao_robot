@@ -107,3 +107,27 @@ This project implements a fully autonomous navigation pipeline for the NAO human
 └─────────────────┘      └──────────────┘
 
 ```
+
+The system consists of four primary layers:
+
+### 1. Perception Layer
+
+- Image-based ball detection (optional extension)
+- Occupancy grid generation
+- Static obstacle identification
+
+### 2. Planning Layer
+
+- A*-based global path planner
+- Manhattan distance heuristic
+- Node expansion, open/closed set management
+
+### 3. Simulation Layer
+
+- Webots for physics-based robot simulation
+- RViz/Foxglove for visualising grid and planned path
+
+### 4. Execution Layer
+
+- NAOqi API for body movement
+- Path smoothing and waypoint tracking
