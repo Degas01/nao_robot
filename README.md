@@ -588,11 +588,22 @@ catkin_make
 
 ## 7. Demo Videos
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/78851a74-bb32-476a-bcdc-904b24dd233a" width="600" controls muted autoplay loop></video>
-  <br>
-  <video src="https://github.com/user-attachments/assets/12ef1f56-3e4c-48d9-9fec-f6cf9229e90d" width="600" controls muted autoplay loop></video>
-</p>
+
+https://github.com/user-attachments/assets/78851a74-bb32-476a-bcdc-904b24dd233a
+
+  
+https://github.com/user-attachments/assets/12ef1f56-3e4c-48d9-9fec-f6cf9229e90d" width="600
+
+
+  
+https://github.com/user-attachments/assets/d0f23541-b8d2-4631-8062-4363b142faa1
+
+
+
+https://github.com/user-attachments/assets/ae2d406e-54e0-4e2f-9ef3-9ece98efc3f9
+
+
+
 
 ---
 
