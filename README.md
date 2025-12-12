@@ -588,22 +588,29 @@ catkin_make
 
 ## 7. Demo Videos
 
+### 1. Ball Tracking Video
 
-https://github.com/user-attachments/assets/78851a74-bb32-476a-bcdc-904b24dd233a
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/78851a74-bb32-476a-bcdc-904b24dd233a" width="700" controls muted autoplay loop></video>
+</p>
 
-  
-https://github.com/user-attachments/assets/12ef1f56-3e4c-48d9-9fec-f6cf9229e90d" width="600
+### 2. Kicking Movement Video
 
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/12ef1f56-3e4c-48d9-9fec-f6cf9229e90d" width="600" width="700" controls muted autoplay loop></video>
+</p>
 
-  
-https://github.com/user-attachments/assets/d0f23541-b8d2-4631-8062-4363b142faa1
+### 3. 2D simulation of A* algorithm with obstacle avoidance
 
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/4ab13aab-4492-4f93-93f6-216aea76db6a" width="600" width="700" controls muted autoplay loop></video>
+</p>
 
+### 4. Choreograph Simulation
 
-https://github.com/user-attachments/assets/ae2d406e-54e0-4e2f-9ef3-9ece98efc3f9
-
-
-
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/ae2d406e-54e0-4e2f-9ef3-9ece98efc3f9" width="600" width="700" controls muted autoplay loop></video>
+</p>
 
 ---
 
