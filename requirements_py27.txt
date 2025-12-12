@@ -1,0 +1,30 @@
+# Requirements for Python 2.7 (NAO Robot Compatibility)
+# Install with: pip install -r requirements_py27.txt
+
+# Core Dependencies
+numpy==1.16.6
+scipy==1.2.3
+
+# Computer Vision
+opencv-python==3.4.18.65
+opencv-contrib-python==3.4.18.65
+
+# Visualization
+matplotlib==2.2.5
+
+# Image Processing
+Pillow==6.2.2
+
+# Path Planning
+heapq2==1.0.0
+
+# Note: NAOqi SDK must be installed separately from Aldebaran Robotics
+# Download from: https://www.aldebaran.com/en/support/nao-6/downloads-softwares
+# NAOqi Python SDK version 2.1.4.13 or compatible
+
+# Optional: For SLAM
+# PyYAML==5.4.1  # If using config files
+
+# Optional: For testing
+# pytest==4.6.11
+# mock==3.0.5
