@@ -603,13 +603,13 @@ catkin_make
 ### 3. 2D simulation of A* algorithm with obstacle avoidance
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/4ab13aab-4492-4f93-93f6-216aea76db6a" width="600" width="700" controls muted autoplay loop></video>
+  <video src="https://github.com/user-attachments/assets/45ac992e-4d0d-40f4-b758-635e9e911529" width="600" width="700" controls muted autoplay loop></video>
 </p>
 
 ### 4. Choreograph Simulation
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/ae2d406e-54e0-4e2f-9ef3-9ece98efc3f9" width="600" width="700" controls muted autoplay loop></video>
+  <video src="https://github.com/user-attachments/assets/665fcb40-f7b5-4906-9631-4b5793b1dcd5" width="600" width="700" controls muted autoplay loop></video>
 </p>
 
 ---
