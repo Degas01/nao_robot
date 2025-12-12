@@ -612,6 +612,12 @@ catkin_make
   <video src="https://github.com/user-attachments/assets/665fcb40-f7b5-4906-9631-4b5793b1dcd5" width="600" width="700" controls muted autoplay loop></video>
 </p>
 
+### 5. Speech Recognition Showcase
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/ffee81fd-8cf6-4344-9e7b-cfa20cec1210" width="600" width="700" controls muted autoplay loop></video>
+</p>
+
 ---
 
 ## 8. Challenges & Solutions
