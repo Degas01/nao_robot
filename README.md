@@ -42,11 +42,6 @@ The robot was tested in Quad Lab, King's College London.
 2. System Architecture
 3. Simulation Environment
 4. Technical Implementations
-   4.1 Ball Detection & Tracking
-   4.2 Path Planning (A* Algorithm)
-   4.3 SLAM Implementation
-   4.4 Kick Kinematics
-   4.5 Speech Recognition
 5. Results & Performance
 6. Installation & Setup
 7. Demo Videos
