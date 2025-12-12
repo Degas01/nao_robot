@@ -1,0 +1,30 @@
+# Requirements for Python 3.12+ (Speech Recognition Component)
+# Install with: pip install -r requirements_py312.txt
+
+# Speech Recognition
+SpeechRecognition==3.10.0
+pyaudio==0.2.13
+
+# Core Dependencies (Modern Versions)
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Computer Vision (Modern Version)
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# Optional: For audio file support
+# pydub==0.25.1
+
+# Optional: For advanced audio processing
+# librosa==0.10.1
+
+# Optional: For testing
+# pytest>=7.4.0
+# pytest-cov>=4.1.0
