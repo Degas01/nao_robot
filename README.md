@@ -799,7 +799,7 @@ Not fully autonomous (requires external laptop)
     *ROS Indigo, Gazebo, MoveIt packages*
 
 ### Team Members
-    *Harry Braganza, Hitesh Anavai, Mohammad Islam and Kriti Chauhan
+    *Harry Braganza, Hitesh Anavai, Mohammad Islam and Kriti Chauhan*
     
 ### OpenCV Community
     *Computer vision library*
